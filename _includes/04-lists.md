@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+My favorite things:
+- Eating homemade food 🍗
+- Watching cartoon 🎥
+- Relaxing 🌙
